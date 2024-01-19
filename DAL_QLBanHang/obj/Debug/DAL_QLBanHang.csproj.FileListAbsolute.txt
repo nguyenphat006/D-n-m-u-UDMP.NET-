@@ -1,0 +1,15 @@
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll.config
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\EntityFramework.dll
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\EntityFramework.xml
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.AssemblyReference.cache
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CopyComplete
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+D:\Coder\Tổng_hợp_DỰ ÁN MẪU (UDPM.NET) - SP24\QLBanHang_UDPM.NET_TB00334\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
